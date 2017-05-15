@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.6">
-    <DOCUMENT ANZPAGES="92" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="3" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="97" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOTEXT="1" AUTOSPALTEN="1" ABSTSPALTEN="0.1528" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="12" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="0" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -23,17 +23,18 @@
         <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
-        <LAYERS NUMMER="1" LEVEL="11" NAME="BookCover" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="1" LEVEL="12" NAME="BookCover" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
         <LAYERS NUMMER="2" LEVEL="1" NAME="Black" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
         <LAYERS NUMMER="3" LEVEL="2" NAME="Pages" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
-        <LAYERS NUMMER="4" LEVEL="10" NAME="Logo Page" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
-        <LAYERS NUMMER="5" LEVEL="9" NAME="Credits/Foreward" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
-        <LAYERS NUMMER="6" LEVEL="8" NAME="World Map" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
-        <LAYERS NUMMER="7" LEVEL="7" NAME="Act 1 - Shi'Cha Village" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
-        <LAYERS NUMMER="8" LEVEL="6" NAME="Act 2 - The Journey" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
-        <LAYERS NUMMER="9" LEVEL="5" NAME="Act 3 - The Uprising" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
-        <LAYERS NUMMER="10" LEVEL="4" NAME="Appendix A: The Classes" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
-        <LAYERS NUMMER="11" LEVEL="3" NAME="Appendix B: Weapon /Armors" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="4" LEVEL="11" NAME="Logo Page" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="5" LEVEL="10" NAME="Credits/Foreward" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
+        <LAYERS NUMMER="6" LEVEL="9" NAME="World Map" SICHTBAR="1" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ffff00"/>
+        <LAYERS NUMMER="7" LEVEL="8" NAME="Act 1 - Shi'Cha Village" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <LAYERS NUMMER="8" LEVEL="7" NAME="Act 2 - The Journey" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff0000"/>
+        <LAYERS NUMMER="9" LEVEL="6" NAME="Act 3 - The Uprising" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ff00"/>
+        <LAYERS NUMMER="10" LEVEL="5" NAME="Appendix A: The Classes" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#0000ff"/>
+        <LAYERS NUMMER="11" LEVEL="4" NAME="Appendix B: Weapon /Armors" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
+        <LAYERS NUMMER="12" LEVEL="3" NAME="Appendix C: Monsters" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#ff00ff"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="1" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="2" openAction="">
             <Subset Name="Arial Regular"/>
@@ -157,7 +158,7 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="91" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+            <Section Number="0" Name="0" From="0" To="96" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
@@ -253,8 +254,72 @@
         <PAGE PAGEXPOS="100" PAGEYPOS="27740" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="89" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="478" PAGEYPOS="27740" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="90" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="28356" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="91" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="478" PAGEYPOS="28356" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="92" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="28972" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="93" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="478" PAGEYPOS="28972" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="94" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="29588" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="95" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="478" PAGEYPOS="29588" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="61.92" BORDERRIGHT="40" BORDERTOP="54.72" BORDERBOTTOM="36" NUM="96" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="539.92" YPOS="74.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="1" BACKITEM="-1">
-            <trail/>
+            <ITEXT CH="Name: Niu Tou Ma Mian"/>
+            <para/>
+            <ITEXT CH="Image:"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="Reference: https://china-underground.com/wp-content/uploads/2016/04/Niu-Tou-Ma-Mian-the-Guards-of-the-Underworld.jpg"/>
+            <para/>
+            <ITEXT CH="Size: medium Humanoid"/>
+            <para/>
+            <ITEXT CH="AC: 14 (breastPlate)"/>
+            <para/>
+            <ITEXT CH="Hit points: 30 (4d8 + 2)"/>
+            <para/>
+            <ITEXT CH="‘speed : 30 ft"/>
+            <para/>
+            <ITEXT CH="Common Status:"/>
+            <para/>
+            <ITEXT CH="Str: 15(+2)"/>
+            <para/>
+            <ITEXT CH="Dex: 10(+0)"/>
+            <para/>
+            <ITEXT CH="Con: 14(+2)"/>
+            <para/>
+            <ITEXT CH="Int:  9(-1)"/>
+            <para/>
+            <ITEXT CH="Wis: 7(-2)"/>
+            <para/>
+            <ITEXT CH="Cha: 9(-1)"/>
+            <para/>
+            <ITEXT CH="Challenge Rating: 1"/>
+            <para/>
+            <ITEXT CH="Exp: 200 xp"/>
+            <para/>
+            <ITEXT CH="Languages: Common, Shou"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Aggressive (Ox Form Only):  As a bonus action, the ore can move up to its speed toward a hostile creature that it can see."/>
+            <para/>
+            <para/>
+            <ITEXT CH="Actions:"/>
+            <para/>
+            <ITEXT CH="(ox form only) Trident: 4 (1d6 + 2) piercing, reach 10 ft, thrown (range 20/ 60), versatile (1d8)"/>
+            <para/>
+            <ITEXT CH="(horse form only) Pike: 5 (1d10 + 2) piercing, reach 10 ft, heavy, two-handed"/>
+            <para/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="518" YPOS="690.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="2" BACKITEM="0">
@@ -4584,7 +4649,7 @@
             <para/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="90" PTYPE="4" XPOS="520.8" YPOS="27795.4" WIDTH="299.8875" HEIGHT="483.6" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 299.887 0 299.887 0 299.887 0 299.887 0 299.887 483.6 299.887 483.6 299.887 483.6 299.887 483.6 0 483.6 0 483.6 0 483.6 0 483.6 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 299.887 0 299.887 0 299.887 0 299.887 0 299.887 483.6 299.887 483.6 299.887 483.6 299.887 483.6 0 483.6 0 483.6 0 483.6 0 483.6 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="11" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="90" PTYPE="4" XPOS="519.8" YPOS="27794.4" WIDTH="299.8875" HEIGHT="483.6" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 299.887 0 299.887 0 299.887 0 299.887 0 299.887 483.6 299.887 483.6 299.887 483.6 299.887 483.6 0 483.6 0 483.6 0 483.6 0 483.6 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 299.887 0 299.887 0 299.887 0 299.887 0 299.887 483.6 299.887 483.6 299.887 483.6 299.887 483.6 0 483.6 0 483.6 0 483.6 0 483.6 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="11" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Imprint MT Shadow Regular" FONTSIZE="20" FEATURES="inherit underline" CH="Elementalist Armor "/>
             <para/>
             <para/>
@@ -4645,13 +4710,22 @@
             <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH="Stealth: Disadvantage"/>
             <tab FONT="Adobe Arabic Regular" FONTSIZE="14"/>
             <para/>
+            <para/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <ITEXT FONT="Imprint MT Shadow Regular" FONTSIZE="20" FEATURES="inherit underline outline" CH="Appendix C: Monsters"/>
+            <para ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="100" YPOS="1252.5" WIDTH="378" HEIGHT="576" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Images/BookPages2.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 378 0 378 0 378 0 378 0 378 576 378 576 378 576 378 576 0 576 0 576 0 576 0 576 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 378 0 378 0 378 0 378 0 378 576 378 576 378 576 378 576 0 576 0 576 0 576 0 576 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="518" YPOS="56130.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="278">
+        <PAGEOBJECT OwnPage="-1" PTYPE="4" XPOS="518" YPOS="56130.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="291" BACKITEM="278">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="99" YPOS="636.75" WIDTH="378.5" HEIGHT="574.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0.25" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Images/BlackCover.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 378.5 0 378.5 0 378.5 0 378.5 0 378.5 574.5 378.5 574.5 378.5 574.5 378.5 574.5 0 574.5 0 574.5 0 574.5 0 574.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 378.5 0 378.5 0 378.5 0 378.5 0 378.5 574.5 378.5 574.5 378.5 574.5 378.5 574.5 0 574.5 0 574.5 0 574.5 0 574.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -4659,6 +4733,382 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="100" YPOS="1868.5" WIDTH="378" HEIGHT="576" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5" LOCALSCY="0.5" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Images/BookPages2.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 378 0 378 0 378 0 378 0 378 576 378 576 378 576 378 576 0 576 0 576 0 576 0 576 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 378 0 378 0 378 0 378 0 378 576 378 576 378 576 378 576 0 576 0 576 0 576 0 576 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="3" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="91" PTYPE="4" XPOS="142" YPOS="28408.2" WIDTH="297" HEIGHT="487.800000000003" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 297 0 297 0 297 0 297 0 297 487.8 297 487.8 297 487.8 297 487.8 0 487.8 0 487.8 0 487.8 0 487.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 297 0 297 0 297 0 297 0 297 487.8 297 487.8 297 487.8 297 487.8 0 487.8 0 487.8 0 487.8 0 487.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Name"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": FengHuang"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Image"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH="            "/>
+            <para ALIGN="0"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Reference"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": http://vignette1.wikia.nocookie.net/herebemonsters/images/9/93/Fenghuang.png/revision/latest?cb=20140717130729"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Challenge Rating"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 0"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Exp"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 25 xp"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Hp"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 10(2d6)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Size"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Small"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Ac"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":13 (Natural Armor)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Alliance"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Unaligned"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="General Stats"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="STR"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 6 (-2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="DEX"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 15 (+2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="CON"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 10 (+0)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="INT"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 2 (- 4)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="WIS"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 14 (+2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="CHA"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 7 (- 2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Skills"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Perception"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": +4"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Senses"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Passive Perception"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 14"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Languages"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": N/A "/>
+            <para/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="91" PTYPE="2" XPOS="201" YPOS="28425" WIDTH="206.2" HEIGHT="247.599999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="2.8421709430404e-14" LOCALY="-19.1999999999971" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../Pictures/Untitled drawing.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 206.2 0 206.2 0 206.2 0 206.2 0 206.2 247.6 206.2 247.6 206.2 247.6 206.2 247.6 0 247.6 0 247.6 0 247.6 0 247.6 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 206.2 0 206.2 0 206.2 0 206.2 0 206.2 247.6 206.2 247.6 206.2 247.6 206.2 247.6 0 247.6 0 247.6 0 247.6 0 247.6 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="92" PTYPE="4" XPOS="539.92" YPOS="28410.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="292" BACKITEM="286">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="93" PTYPE="4" XPOS="140" YPOS="29026.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="293" BACKITEM="291">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="94" PTYPE="4" XPOS="539.92" YPOS="29026.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="294" BACKITEM="292">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="95" PTYPE="4" XPOS="140" YPOS="29642.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="295" BACKITEM="293">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="96" PTYPE="4" XPOS="539.92" YPOS="29642.72" WIDTH="276.08" HEIGHT="485.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0.1528" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.08 0 276.08 0 276.08 0 276.08 0 276.08 485.28 276.08 485.28 276.08 485.28 276.08 485.28 0 485.28 0 485.28 0 485.28 0 485.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="294">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="92" PTYPE="4" XPOS="540.2" YPOS="28411.2" WIDTH="275.4" HEIGHT="484.800000000003" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 275.4 0 275.4 0 275.4 0 275.4 0 275.4 484.8 275.4 484.8 275.4 484.8 275.4 484.8 0 484.8 0 484.8 0 484.8 0 484.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 275.4 0 275.4 0 275.4 0 275.4 0 275.4 484.8 275.4 484.8 275.4 484.8 275.4 484.8 0 484.8 0 484.8 0 484.8 0 484.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="WIS"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 14 (+2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="CHA"/>
+            <ITEXT CH=":"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=" 7 (- 2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Skills"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Perception"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": +4"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Senses"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Passive Perception"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 14"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Languages"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": N/A "/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Actions"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Talons"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Melee weapon attack, +4 to hit, reach 5ft, one target. Hit: 4(1d4+2) slashing"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Fireball"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": magic attack, +2 to hit, reach (30 ft/120 ft), one target. Hit: 2(1d4+2) burning damage. +1d4 of fire damage, can cause burning damage. Roll a Dex save to see if target is set on fire. Apply burning damage if check is failed. "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Hatchling"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": If you roll a 5 or lower the Feng Huang pops out an egg which into another Feng Huang."/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="93" PTYPE="4" XPOS="139.4" YPOS="29026.8" WIDTH="276.6" HEIGHT="486" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.6 0 276.6 0 276.6 0 276.6 0 276.6 486 276.6 486 276.6 486 276.6 486 0 486 0 486 0 486 0 486 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.6 0 276.6 0 276.6 0 276.6 0 276.6 486 276.6 486 276.6 486 276.6 486 0 486 0 486 0 486 0 486 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Name"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Niu Tou Ma Mian"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Image"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Reference"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": https://china-underground.com/wp-content/uploads/2016/04/Niu-Tou-Ma-Mian-the-Guards-of-the-Underworld.jpg"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Size"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Medium Humanoid"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="AC"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 14 (Breast Plate)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Hit Points"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 30 (4d8 + 2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Speed"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 30 ft"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Common Status"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Str"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 15(+2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Dex"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 10(+0)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Con"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 14(+2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Int"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":  9(-1)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Wis"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 7(-2)"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="94" PTYPE="4" XPOS="540.2" YPOS="29028" WIDTH="276.6" HEIGHT="484.799999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.6 0 276.6 0 276.6 0 276.6 0 276.6 484.8 276.6 484.8 276.6 484.8 276.6 484.8 0 484.8 0 484.8 0 484.8 0 484.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.6 0 276.6 0 276.6 0 276.6 0 276.6 484.8 276.6 484.8 276.6 484.8 276.6 484.8 0 484.8 0 484.8 0 484.8 0 484.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" FEATURES="inherit outline" CH="Cha"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" CH=": 9(-1)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" FEATURES="inherit outline" CH="Challenge Rating"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" CH=": 1"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" FEATURES="inherit outline" CH="Exp"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" CH=": 200 xp"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" FEATURES="inherit outline" CH="Languages"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" CH=": Common, Shou"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" FEATURES="inherit outline" CH="Aggressive (Ox Form Only)"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" CH=":  As a bonus action, the ore can move up to its speed toward a hostile creature that it can see."/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Actions"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="(Ox Form Only) Trident"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 4 (1d6 + 2) piercing, reach 10 ft, thrown (range 20/ 60), versatile (1d8)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="(Horse Form Only) Pike"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 5 (1d10 + 2) piercing, reach 10 ft, heavy, two-handed"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="93" PTYPE="2" XPOS="170" YPOS="29037.8" WIDTH="244.2" HEIGHT="257.799999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../Pictures/nitaumo.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 244.2 0 244.2 0 244.2 0 244.2 0 244.2 257.8 244.2 257.8 244.2 257.8 244.2 257.8 0 257.8 0 257.8 0 257.8 0 257.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 244.2 0 244.2 0 244.2 0 244.2 0 244.2 257.8 244.2 257.8 244.2 257.8 244.2 257.8 0 257.8 0 257.8 0 257.8 0 257.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="95" PTYPE="4" XPOS="140.6" YPOS="29643" WIDTH="276" HEIGHT="485.399999999998" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276 0 276 0 276 0 276 0 276 485.4 276 485.4 276 485.4 276 485.4 0 485.4 0 485.4 0 485.4 0 485.4 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276 0 276 0 276 0 276 0 276 485.4 276 485.4 276 485.4 276 485.4 0 485.4 0 485.4 0 485.4 0 485.4 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="95" PTYPE="2" XPOS="256" YPOS="29680.5" WIDTH="126" HEIGHT="193.699999999997" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.317380352644836" LOCALSCY="0.317380352644836" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Images/ChainDevil.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 126 0 126 0 126 0 126 0 126 193.7 126 193.7 126 193.7 126 193.7 0 193.7 0 193.7 0 193.7 0 193.7 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 126 0 126 0 126 0 126 0 126 193.7 126 193.7 126 193.7 126 193.7 0 193.7 0 193.7 0 193.7 0 193.7 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="95" PTYPE="4" XPOS="140" YPOS="29643" WIDTH="276.6" HEIGHT="486" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 276.6 0 276.6 0 276.6 0 276.6 0 276.6 486 276.6 486 276.6 486 276.6 486 0 486 0 486 0 486 0 486 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 276.6 0 276.6 0 276.6 0 276.6 0 276.6 486 276.6 486 276.6 486 276.6 486 0 486 0 486 0 486 0 486 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Name"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Chain Devil Kyton"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Image"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH="  "/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Reference"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": http://www.themarysue.com/wp-content/uploads/2010/06/chain-devil-397x550.jpg"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Size"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Medium Fiend (Devil)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Allegiance"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Lawful Evil"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="AC"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 16 (Natural Armor)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Hp"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 65 (8d10+5)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Speed"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 30 ft"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="General Status"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="STR"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 16 (+3)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="DEX"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 15 (+2)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="CON"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 16 (+3)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="INT"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 11 (+0)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="WIS"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 12 (+1) "/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="96" PTYPE="4" XPOS="540.2" YPOS="29643.6" WIDTH="275.4" HEIGHT="484.799999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 275.4 0 275.4 0 275.4 0 275.4 0 275.4 484.8 275.4 484.8 275.4 484.8 275.4 484.8 0 484.8 0 484.8 0 484.8 0 484.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 275.4 0 275.4 0 275.4 0 275.4 0 275.4 484.8 275.4 484.8 275.4 484.8 275.4 484.8 0 484.8 0 484.8 0 484.8 0 484.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" FEATURES="inherit outline" CH="CHA"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="12" CH=": 12 (+1)"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Proficiencies"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Saving Throws"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Con + 6, Wis +4, Cha +4"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Damage Resistance"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Cold"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Damage Immunities"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Fire, Poison"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Condition Immunities"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Poisoned, Frozen"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Senses"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Darkvision 120 ft., Passive Perception (+0)"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Languages"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Common, Infernal, Shou, Telepathy 120 ft."/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Magic Resistance"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": The devil has advantage on saving throws against spells and other magical effects."/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Abilities"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Devil’s Sight"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": Magical darkness does not impede the devil’s darkvision"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Other Status"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": "/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Challenge"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 7"/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Exp"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 3,500 xp"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="16" FEATURES="inherit outline" CH="Actions"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=":"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="MultiAttack"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": The devil makes two attacks with its chains."/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Chain. Melee Weapon Attack"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": +4 to hit, reach 10 ft., one target "/>
+            <para/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" FEATURES="inherit outline" CH="Hit"/>
+            <ITEXT FONT="Adobe Arabic Regular" FONTSIZE="14" CH=": 5 (2d6+4) slashing damage."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
